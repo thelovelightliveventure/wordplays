@@ -11,6 +11,7 @@ word = input("Enter any word: ")
 # VARS
 wordlength = len(word)
 alphalength = len(alphabet)
+word = word.lower()
 
 # INPUT TO ARRAY
 for i in range(wordlength):
