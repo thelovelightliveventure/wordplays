@@ -19,7 +19,7 @@ total value:            112
 dollar word?            No
 ```
 
-```paragraphs.py```, on the other hand, can process up to paragraphs at a time, returning only dollar words.
+```paragraphs.py```, on the other hand, can process chapters at a time, returning only dollar words.
 Here's an example (the input is the third chapter of *Pride and Prejudice*:
 
 ```
