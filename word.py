@@ -23,8 +23,6 @@ for i in range(0, wordlength):
         if wordarray[i] == alphabet[j]:
             j += 1
             letternumbers.append(j)
-    if wordarray[i] == "y":
-        letternumbers.append(25)
 
 # FIND TOTAL VALUE OF WORD
 for i in range(0, len(letternumbers)):
