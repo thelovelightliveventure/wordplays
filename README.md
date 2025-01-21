@@ -1,5 +1,5 @@
 # Welcome to ```wordplays```!
-Hello, world! This is a repository filled with my projects related to wordplay. If you're interested in how I used 
+Hello, world! This is a repository filled with my projects related to wordplay. If you're interested in how to use 
 Python to find special words (such as dollar words), you're in the right place!
 
 # Projects
