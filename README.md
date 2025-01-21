@@ -11,7 +11,8 @@ is a dollar word: 13(m) + 15(o) + 12(l) + 5(e) + 3(c) + 21(u) + 12(l) + 1(a) + 1
 ### Files
 - ```word.py```: processes one word at a time and gives information about the word,
 returning any kind of words - even those that are not dollar words.
-- ```paragraph.py```: processes paragraphs (or even chapters!) at a time, returning only dollar words.
+- ```paragraphs.py```: processes paragraphs (or even chapters!) at a time, returning only dollar words.
+- ```targetwords.py```: checks for words matching user input of target sum, instead of only checking for dollar words. Functions like paragraph.py
 
 # Conclusion
 I hope these programs prove useful (or at least somewhat entertaining) to you! Happy coding!
