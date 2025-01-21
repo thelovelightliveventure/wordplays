@@ -1,6 +1,6 @@
 # Welcome to ```wordplays```!
 Hello, world! This is a repository filled with my projects related to wordplay. If you're interested in using 
-Python to find special words (such as dollar words), you're in the right place!
+Python to find special words (such as dollar words and heterograms), you're in the right place!
 
 # Projects
 - dollarwords
