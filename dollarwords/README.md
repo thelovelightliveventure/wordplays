@@ -20,7 +20,7 @@ dollar word?            No
 ```
 
 ```paragraphs.py```, on the other hand, can process chapters at a time, returning only dollar words.
-Here's an example (the input is the third chapter of *Pride and Prejudice*:
+Here's an example (the input is the third chapter of *Pride and Prejudice*):
 
 ```
 Enter paragraph here: Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him,
@@ -70,7 +70,7 @@ dollar word?            Yes
 #############################
 ```
 
-A third program, ```targetwords.py```, takes user input for target sum. This can be any integer, and it allows the user to form words other than dollar words. It functions similarly to ```paragraphy.py```:
+A third program, ```targetwords.py```, takes user input for target sum. This can be any integer, and it allows the user to form words other than dollar words. It functions similarly to ```paragraphy.py``` (the input is a chapter from *Great Expectations*):
 
 ```
 Enter desired sum: 30
