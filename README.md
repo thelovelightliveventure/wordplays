@@ -5,6 +5,7 @@ Python to find special words (such as dollar words and heterograms), you're in t
 # Projects
 - dollarwords
 - heterograms
+- ciphers
 ## ```dollarwords```
 ### What's a 'dollar word'?
 A dollar word is a word whose numeric counterparts add up to 100, with "a" being 1, "b" being 2, and so on. *Molecular*, for example,
@@ -20,6 +21,12 @@ returning any kind of words - even those that are not dollar words.
 A heterogram is a word that has no repeat characters. For example, _pathfinder_, _background_, and _bankrupt_ are heterograms, because those words do not have any repeating characters. However, _thumbtacks_ would not be a heterogram, because the letter _t_ is repeated. Heterograms are not case-sensitive.
 ### Files
 - ```heterograms.py```: processes paragraphs at a time and returns only heterograms with lengths above a user-specified word length.
+
+## ```ciphers```
+### What's a 'cipher'?
+A cipher is a "code" -- a way of disguising, called "encrypting," words. Caesar cipher, substitution cipher, and pigpen cipher are some examples of ciphers.
+### Files
+- ```caesarcipher.py```: processes phrases or paragraphs at a time, shifting the letters by a user-inputted number of letters. For example, if the key, or number of letters to shift by, is ```3```, then the letter ```a``` would become ```d```, ```b``` becomes ```e```, ```c``` becomes ```f```, and so on. 
 
 # Conclusion
 I hope these programs prove useful (or at least somewhat entertaining) to you! Happy coding!
