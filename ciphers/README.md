@@ -19,5 +19,19 @@ Encrypt or decrypt (e/d)? e
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 
+### ```atbashcipher.py```
+The Atbash cipher, also called the reverse alphabet or backwards cipher, is a type of substitution
+cipher originally used for the Hebrew alphabet. For example, _a_ becomes _z_, _b_ becomes _y_, _c_ becomes _x_, and so on, all the way to _m_ = _n_ and _n_ = _m_. It may be of interest to note that the Atbash cipher is completely reversible; that is, decryption and encryption methods are exactly the same. This program encrypts and decrypts messages by the Atbash cipher. Here's an example of how it works:
+```
+Welcome to the Atbash Cipher Program!
+This program will encrypt or decrypt your message using the Atbash cipher.
+########################################
+Enter message here: The quick brown fox jumped over the lazy dog.
+Mode: encrypt or decrypt (e/d)? e
+########################################
+Encrypted message: Gsv jfrxp yildm ulc qfnkvw levi gsv ozab wlt.
+########################################
+```
+
 ## Conclusion
 I hope this program proves useful to you! Happy coding!
