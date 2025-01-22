@@ -26,7 +26,8 @@ A heterogram is a word that has no repeat characters. For example, _pathfinder_,
 ### What's a 'cipher'?
 A cipher is a "code" -- a way of disguising, called "encrypting," words. Caesar cipher, substitution cipher, and pigpen cipher are some examples of ciphers.
 ### Files
-- ```caesarcipher.py```: processes phrases or paragraphs at a time, shifting the letters by a user-inputted number of letters. For example, if the key, or number of letters to shift by, is ```3```, then the letter _a_ would become _d_, _b_ becomes _e_, _c_ becomes _f_, and so on. 
+- ```caesarcipher.py```: processes phrases or paragraphs at a time, shifting the letters by a user-inputted number of letters. For example, if the key, or number of letters to shift by, is ```3```, then the letter _a_ would become _d_, _b_ becomes _e_, _c_ becomes _f_, and so on.
+- ```atbashcipher.py```: processes phrases or paragraphs at a time, reversing the alphabet. For example, _a_ becomes _z_, _b_ becomes _y_, _c_ becomes _x_, and so on, all the way to _m_ = _n_ and _n_ = _m_. 
 
 # Conclusion
 I hope these programs prove useful (or at least somewhat entertaining) to you! Happy coding!
