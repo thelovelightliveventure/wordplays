@@ -7,9 +7,9 @@ Caesar cipher, substitution cipher, and pigpen cipher are some examples of ciphe
 
 ## Files
 ### ```caesarcipher.py```
-The Caesar cipher was first used by -- you guessed it -- Julius Caeser himself. This cipher involves shifting letters down the alphabet
+The Caesar cipher was first used by -- you guessed it -- Julius Caeser. This cipher involves shifting letters down the alphabet
 by a predetermined number of letters. For example, if the number of letters to shift by (called the "key") is 3, then then the letter _a_
-would become _d_, _b_ becomes _e_, _c_ becomes _f_, and so on. Some famous uses of the Caesar cipher include ROT13, where ```key = 13```, and the traditional ```key = 3``` that Julius Caesar used. Here's an example of how this program works:
+would become _d_, _b_ becomes _e_, _c_ becomes _f_, and so on. Some famous uses of the Caesar cipher include ROT13, where ```key = 13```, and the traditional ```key = 3``` that Julius Caesar himself used. Here's an example of how this program works:
 ```
 Enter number of letters to shift by: 3
 Enter phrase to encrypt or decrypt: This is an example of a Caesar cipher. This text will become unreadable when the program has shifted all letters three letters down.
