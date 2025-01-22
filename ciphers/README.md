@@ -34,4 +34,4 @@ Encrypted message: Gsv jfrxp yildm ulc qfnkvw levi gsv ozab wlt.
 ```
 
 ## Conclusion
-I hope this program proves useful to you! Happy coding!
+I hope these programs prove useful to you! Happy coding!
