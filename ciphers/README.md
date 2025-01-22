@@ -1,6 +1,5 @@
 # Welcome
-Welcome to this repository! If you wish to encrypt or decrypt phrases, these programs are for you! Simply enter the words you wish to
-encrypt or decrypt in the corresponding program, and it'll will add up the total numbers of each word.
+Hello, world! Welcome to this repository. If you wish to encrypt or decrypt phrases, these programs are for you! Simply enter the words you wish to encrypt or decrypt in the corresponding program, and it'll will add up the total numbers of each word.
 
 ### What's a 'cipher'?
 A cipher is a "code" -- a way of disguising, called "encrypting," words. 
@@ -22,5 +21,3 @@ Encrypt or decrypt (e/d)? e
 
 ## Conclusion
 I hope this program proves useful to you! Happy coding!
-
-Note: this program works the most efficiently if spaces are added correctly. If spaces are missing and two words are thus stuck together, the program will process it as one word, not as two words.
